@@ -4,10 +4,14 @@ require_once 'lib/connection.php';
 
 <!DOCTYPE html>
 <html lang="en">
-<?php
-$page = 'Home';
-include_once 'assets/includes/header.php';
-?>
+
+<head>
+   <?php
+   $page = 'Home';
+   include_once 'assets/includes/header.php';
+   ?>
+
+</head>
 
 <body>
    <?php
